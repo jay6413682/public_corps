@@ -6,4 +6,4 @@ LMT
 SYMC
 HD
 AAPL
-
+GTE
