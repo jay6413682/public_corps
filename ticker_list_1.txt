@@ -13,3 +13,4 @@ FRI
 THU
 THU
 THU
+WED
