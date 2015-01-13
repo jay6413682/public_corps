@@ -15,3 +15,4 @@ THU
 THU
 WED
 WED
+TUE
