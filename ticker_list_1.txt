@@ -10,3 +10,4 @@ GTE
 DFR
 RTH
 FRI
+THU
