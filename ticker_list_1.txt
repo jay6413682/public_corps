@@ -12,3 +12,4 @@ RTH
 FRI
 THU
 THU
+THU
